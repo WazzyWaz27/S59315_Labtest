@@ -1,0 +1,2 @@
+crossroads.addRoute(‘ ‘, function(){});
+        
